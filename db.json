@@ -1,0 +1,21 @@
+{
+  "info": [
+    {
+      "name": "Pratik Ankar",
+      "post": "Front End Developer",
+      "mobile": "+91 8485024889",
+      "mobile_link": "tel:8485024889",
+      "email": "pratik.ankar@gmail.com",
+      "email_link": "mailto:pratik.ankar@gmail.com",
+      "whatsapp": "https://wa.me/8485024889",
+      "location": "https://www.google.com/maps/@18.6666667,73.7345402,14z",
+      "aboutinfo": "Hello, I am Pratik Ankar. I have experience of 2 years and 4 months working on technologies like Angular, Bootstrap, JavaScript, Node.js, MySQL. I have also worked as Contributory Lecturer for 4 years before entering IT industry. Currently I am self learning React.js and MongoDB to keep myself updated with the technologies.",
+      "address_l1": "Flat No. 206, Isha,",
+      "address_l2": "Pendse Colony, Vikas Nagar,",
+      "address_l3": "Kiwale, Pune, Maharashtra. Pin - 412101",
+      "linkedin": "https://www.linkedin.com/in/pratik-ankar-80b4a630/",
+      "instagram": "https://www.instagram.com/wayfarer_prat/",
+      "website": "https://stacklab.in"
+    }
+  ]
+}

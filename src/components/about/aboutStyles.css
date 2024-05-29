@@ -1,0 +1,14 @@
+.about {
+    display: block;
+    margin: 20px 20px 15px 10px;
+    padding: 15px 20px;
+    background-color: #FFFFFF;
+    border-radius: 25px;
+    box-shadow: 0px 7px 29px 0px #64646f33;
+    text-align: center;    
+}
+
+.about h2 {
+    color: #fd8031;
+    font-size: 28px;
+}
