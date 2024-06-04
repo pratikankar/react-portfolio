@@ -5,10 +5,14 @@
     background-color: #FFFFFF;
     border-radius: 25px;
     box-shadow: 0px 7px 29px 0px #64646f33;
-    text-align: center;    
+    text-align: left;    
 }
 
 .about h2 {
     color: #fd8031;
     font-size: 28px;
+    text-align: center;
+}
+.about-text {
+    margin: 0 40px;
 }

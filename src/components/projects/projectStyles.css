@@ -1,0 +1,34 @@
+.projects {
+    display: block;
+    margin: 20px 20px;
+    padding: 15px 20px;
+    background-color: #FFFFFF;
+    border-radius: 25px;
+    box-shadow: 0px 7px 29px 0px #64646f33;
+    text-align: left;
+    color: #fd8031;
+}
+
+.project-data {
+    margin: 0 50px 10px 50px;
+    color: #061244;
+}
+
+.projects h2 {
+    font-size: 28px;
+    text-align: center;
+}
+
+.projects h3 {
+    font-size: 22px;
+    color: #fd8031;
+}
+
+.projects h4 {
+    font-size: 18px;
+}
+
+.projects p {
+    margin-left: 20px;
+    color: #656b6c
+}

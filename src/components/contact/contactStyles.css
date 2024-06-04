@@ -11,13 +11,14 @@
 .contact h2 {
     color: #fd8031;
     font-size: 28px;
+    margin-bottom: 0;
 }
 
 .contactdetails {
     display: flex;
     align-items: center;
+    justify-content: center;
     padding-bottom: 15px;
-    margin-bottom: 30px;
 }
 
 .mobileicon {
